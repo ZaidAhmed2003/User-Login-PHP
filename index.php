@@ -1,6 +1,6 @@
 <?php
+require_once 'session.php';
 require 'includes/header.php';
-session_start();
 ?>
 
 <body>
